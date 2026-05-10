@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w2KB+S2NNfQCsNq82JkVcXraxcgOCVAp55HJD7F2nN4=",
+  "Source": "Prometheus",
+  "BasePath": "_content/Prometheus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
