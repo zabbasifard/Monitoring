@@ -1,9 +1,13 @@
-﻿using Prometheus.Contracts;
-using Prometheus.Services;
+﻿using Dpk.Observability.Middleware;
+using Dpk.Observability.Observability.Contracts;
+using Dpk.Observability.Observability.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
+using Prometheus;
 
-namespace Prometheus.Extensions
+namespace Dpk.Observability
 {
-
     public static class Extensions
     {
         public static IServiceCollection AddCompanyObservability(this IServiceCollection services)

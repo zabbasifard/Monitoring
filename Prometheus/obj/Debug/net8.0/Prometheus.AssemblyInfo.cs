@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prometheus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+611066b84414d5a9a20c22eb66aa79a76d58520d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prometheus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prometheus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
