@@ -1,0 +1,6 @@
+@DPK.SCF.TestGrafana_HostAddress = http://localhost:5091
+
+GET {{DPK.SCF.TestGrafana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
